@@ -1,1 +1,1 @@
-# cursor-asset-dashboard
+# cursor-weather-dashboard
